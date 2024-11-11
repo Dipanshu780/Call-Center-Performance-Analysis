@@ -36,7 +36,7 @@ For feedback, inquiries, or collaboration, feel free to reach out!
 ## 🤝 Contributing ##
 Have ideas for new analysis or want to dive deeper into the data? Contributions are welcome! Whether it's code, analysis, or just a suggestion, feel free to create a pull request or raise an issue.
 
-Thank you for exploring this Coffee Sales Analysis Project! If you find it valuable, please consider giving it a ⭐ on GitHub.
+Thank you for exploring the Call Center Performance Analysis Dashboard! If you find it valuable, consider giving it a ⭐ on GitHub.
 
 
 
