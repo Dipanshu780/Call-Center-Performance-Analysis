@@ -31,7 +31,7 @@ This Power BI project visualizes key performance metrics for a call center, anal
 For feedback, inquiries, or collaboration, feel free to reach out!
 
 - **Email:** dipanshugupta780@gmail.com
-- **LinkedIn:** (https://www.linkedin.com/in/dipanshu780)
+- **LinkedIn:** https://www.linkedin.com/in/dipanshu780
 
 ## 🤝 Contributing ##
 Have ideas for new analysis or want to dive deeper into the data? Contributions are welcome! Whether it's code, analysis, or just a suggestion, feel free to create a pull request or raise an issue.
